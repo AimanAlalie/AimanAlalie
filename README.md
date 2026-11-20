@@ -3,7 +3,7 @@
 Softwareentwickler aus Bochum mit Schwerpunkt Webentwicklung: **React, TypeScript, Next.js und Supabase**.
 B.Sc. Informatik/Softwaretechnik (TH Lübeck), derzeit im Master Informatik.
 
-- 🔭 Aktuell entwickle ich am Institut für Interaktive Systeme (ISy) der TH Lübeck eine Website mit Datenvisualisierung für das Forschungsprojekt *„Digitale Souveränität"*
+- 🔭 Aktuell entwickle ich am Institut für Interaktive Systeme (ISy) der TH Lübeck eine Website mit Datenvisualisierung für das Forschungsprojekt *„Digitale Souveränität"* – Frontend mit React und TypeScript, das REST-Backend mit Spring Boot ist gerade im Aufbau
 - 🌍 Sprachen: Arabisch (Muttersprache), Deutsch (C1), Englisch (B2)
 - 📫 aiman.alalie@gmail.com
 
